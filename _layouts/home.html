@@ -18,33 +18,19 @@ layout: default
     <!-- This section pulls data from index.md -->
     {{ content }}
 
-    <!-- Probably not needed since previous_offering is not used -->
-    <!-- 
-    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
-    <h2>Previous Offerings</h2>
-    <ul class="previous-offerings">
-    {% for offer in site.data.previous_offering.offerings %}
-    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
-    {% endfor %}
-    </ul>
-    {% endif %}
-     -->
-
     <br>
-
-    <!-- Hiding instructors and TAs for now. Pulls data from _data/people.yml. -->
-    <!-- 
+    
     <div>
         <div style="width:55%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Instructors</h2>
-                {% for ins in site.data.people.instructors %}
+                <h2>Organizers</h2>
+                {% for organizer in site.data.entity.organizers %}
                 <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    <img src="{{organizer.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if organizer.webpage %}
+                    <p><a href="{{ organizer.webpage }}">{{organizer.name}}</a></p>
                     {% else %}
-                    <p>{{ins.name}}</p>
+                    <p>{{organizer.name}}</p>
                     {% endif %}
                 </div>
                 {% endfor %}
@@ -53,14 +39,14 @@ layout: default
 
         <div style="width:45%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Teaching assistants</h2>
-                {% for ta in site.data.people.teaching_assistants %}
+                <h2>Funder</h2>
+                {% for funder in site.data.entity.funder %}
                 <div class="image--cover-container">
-                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ta.webpage %}
-                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    <img src="{{funder.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if funder.webpage %}
+                    <p><a href="{{ funder.webpage }}">{{funder.name}}</a></p>
                     {% else %}
-                    <p>{{ta.name}}</p>
+                    <p>{{funder.name}}</p>
                     {% endif %}
                 </div>
                 {% endfor %}
@@ -68,5 +54,5 @@ layout: default
         </div>
 
     </div>
-    -->
+    
 </div>
