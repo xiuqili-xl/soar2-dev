@@ -1,0 +1,64 @@
+# Site settings
+course_name: Summer Open And Reproducible Research (SOAR²) Intensive TEST
+course_description: 3-day intensive program for undergraduate students on open and reproducible research
+
+course_semester: "Sep 2026"
+
+baseurl: "/soar2-test"                        # the subpath of your site, e.g. /blog/
+url: "http://xiuqili-xl.github.io/"        # the base hostname & protocol for your site
+
+schoolname: "UCSB Library"
+schoolurl: "https://www.library.ucsb.edu/"
+
+
+# Repo information (for repo_source, use the format "username/repo")
+repo_copyright: Copyright 2026 by XXX
+repo_license: Licensed under XXX
+repo_source: xiuqili-xl/soar2-test
+
+
+program_info: |
+    SOAR² is developed in partnership by Research Data Services (UCSB Library) and the Office of Undergraduate Research and Creative Activities (URCA), with support from the Open Research Community Accelerator (ORCA).
+
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%a %-m/%-d/%Y"
+onlydateformat: "%-m/%-d/%Y"
+timeformat: "%-I:%M %p"
+
+timezone: America/Los_Angeles
+
+future: true
+collections:
+    instructors:
+        output: true
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

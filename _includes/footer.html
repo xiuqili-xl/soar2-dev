@@ -1,0 +1,48 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">{{ site.schoolname }}</h2> -->
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p class="text">
+          {{ site.program_info | newline_to_br  }}
+        </p>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="source-info-list">
+
+          <!-- Copyright info -->
+          {% if site.repo_copyright %}
+          <li>
+              <i class="fa fa-copyright" style="color:gray"></i> {{ site.repo_copyright }}
+          </li>
+          {% endif %}
+
+
+          <!-- License info -->
+          {% if site.repo_license %}
+          <li>
+              <i class="fa fa-copy" style="color:gray"></i> {{ site.repo_license }}
+          </li>
+          {% endif %}
+        
+
+          <!-- Link to source repository -->
+          {% if site.repo_source %}
+          <li>
+            <a href="https://github.com/{{ site.repo_source }}">
+              <i class="fab fa-github" style="color:gray"></i> <span>Source code</span>
+            </a>
+          </li>
+          {% endif %}
+
+
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
