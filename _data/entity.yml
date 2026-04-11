@@ -3,12 +3,14 @@
 # Currently hidden until decided
 
 organizers:
-  - name: Matthew Bauer
-    profile_pic: /_images/pp/matt.jpg
-  - name: Balint Kurgyis
-    profile_pic: /_images/pp/hiking_balint.jpeg
+  - name: Research Data Services (RDS)
+    profile_pic: /_images/entity/rds-logo.png
+    webpage: https://www.library.ucsb.edu/research-data-services
+  - name: Undergraduate Research and Creative Activities (URCA)
+    profile_pic: /_images/entity/urca_logo.jpeg
+    webpage: https://www.urca.ucsb.edu
 
 funder:
-  - name: Shaul Druckmann
-    profile_pic: /_images/pp/happy_shaul.jpg
-    webpage: https://www.druckmannlab.com
+  - name: Open Research Community Accelerator (ORCA)
+    profile_pic: /_images/entity/orca_logo.jpeg
+    webpage: https://www.orcaopen.org/
