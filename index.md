@@ -4,9 +4,9 @@ layout: home
 
 **Are you conducting mentored research—or curious about getting started? Want to build practical research skills that you can apply immediately?**
 
-The Summer Open And Reproducible Research (SOAR²) Intensive is a three-day, hands-on program designed for UCSB undergraduate students who want to navigate research with confidence. Whether you are already involved in a research project or just getting started, SOAR² will help you develop practical skills, understand research expectations, and learn how to contribute to research in transparent and responsible ways.
+The Summer Open And Reproducible Research (SOAR²) Camp is a three-day, hands-on program designed for UCSB undergraduate students who want to navigate research with confidence. Whether you are already involved in a research project or just getting started, SOAR² will help you develop practical skills, understand research expectations, and learn how to contribute to research in transparent and responsible ways.
 
-**SOAR² is free to attend, and meals are provided.**
+**SOAR² is free to attend, and meanls are provided. Upon completion, you will receive a digital badge and a certificate.**
 
 <br/>
 
@@ -21,6 +21,8 @@ In just three days, you will:
 * Build confidence in communicating your research
 * Leave with a clear plan for your next steps in research
 
+See [SCHEDULE]({{ "/schedule/" | relative_url }}) tab for more information about the modules.
+
 <br/>
 
 ## What to expect
@@ -32,7 +34,7 @@ SOAR² is highly interactive. You’ll participate in:
 * Visits to campus research facilities
 * A keynote talk from a researcher doing open and reproducible science
 
-Sessions are led by facilitators from different disciplines (see [Instructors]({{ "/instructors/" | relative_url }}) page), so you’ll gain perspectives that apply across fields.
+Sessions are led by facilitators from different disciplines (see [INSTRUCTORS]({{ "/instructors/" | relative_url }}) page), so you’ll gain perspectives that apply across fields.
 
 <br/>
 
@@ -43,11 +45,11 @@ No prior research experience required! We welcome applications from **all UCSB u
 <br/>
 
 ## Program dates
-**Application opens**: May 13 - Jun 3, 2026
+**Application opens**: May 13 - Jun 5, 2026
 
 **Decisions released**: by Jun 12, 2026
 
-**Program dates**: Sep 16 - 18, 2026 (before the start of Fall Quarter)
+**Program dates**: Sep 21 - 23, 2026 (before the start of Fall Quarter instruction)
 
 <br/>
 
@@ -74,6 +76,6 @@ The application will include:
 <br/>
 
 ## Questions?
-Contact: rds@library.ucsb.edu
+Contact: rds [AT] library.ucsb.edu
 
 

@@ -1,6 +1,6 @@
 # Site settings
-course_name: Summer Open And Reproducible Research (SOAR²) Intensive DEV
-course_description: 3-day intensive program for undergraduate students on open and reproducible research
+course_name: Summer Open And Reproducible Research (SOAR²) Camp DEV
+course_description: 3-day intensive camp for undergraduate students on open and reproducible research
 
 course_semester: "Sep 21-23, 2026"
 
@@ -12,8 +12,8 @@ schoolurl: "https://www.library.ucsb.edu/"
 
 
 # Repo information (for repo_source, use the format "username/repo")
-repo_copyright: Copyright 2026 by XXX
-repo_license: Licensed under XXX
+repo_copyright: Copyright 2026 by [TBA]
+repo_license: Licensed under [TBA]
 repo_source: xiuqili-xl/soar2-dev
 
 
