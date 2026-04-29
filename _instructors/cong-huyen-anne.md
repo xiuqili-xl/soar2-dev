@@ -1,10 +1,10 @@
 ---
 type: instructor
-name: Julien Brun
+name: Anne Cong-Huyen
 degree: 
-title: Earth & Environmental Sciences Research Facilitator
-bio: Julien Brun is the Earth & Environmental Sciences Research Facilitator in the Research Data Services department at the UCSB Library. [Add Julien's bio]
-thumbnail: /_images/instructors/brun-julien.png
+title: Research and Engagement Librarian
+bio: Anne Cong-Huyen is the Research Engagement Librarian. [Add Anne's bio]
+thumbnail: /_images/instructors/cong-huyen-anne.jpg
 
 hide_from_announcments: true
 

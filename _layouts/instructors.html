@@ -32,7 +32,7 @@ layout: page
 
         {% if instructor.bio %}
         {{ instructor.bio }}
-        <br/><br/>
+        <br/>
         {% endif %}
 
         {% if instructor.social_links %}
@@ -41,7 +41,6 @@ layout: page
             <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>{% unless forloop.last %} | {% endunless %}
           {% endfor %}
         </div>
-        <br/>
         {% endif %}
 
 

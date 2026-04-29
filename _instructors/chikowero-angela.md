@@ -1,10 +1,10 @@
 ---
 type: instructor
-name: Julien Brun
+name: Angela Chikowero
 degree: 
-title: Earth & Environmental Sciences Research Facilitator
-bio: Julien Brun is the Earth & Environmental Sciences Research Facilitator in the Research Data Services department at the UCSB Library. [Add Julien's bio]
-thumbnail: /_images/instructors/brun-julien.png
+title: Open and Affordable Course Materials Librarian & Education Librarian
+bio: Angela Chikowero is the Open and Affordable Course Materials Librarian & Education Librarian at the UCSB Library. [Add Angela's bio]
+thumbnail: /_images/instructors/chikowero-angela.jpg
 
 hide_from_announcments: true
 
