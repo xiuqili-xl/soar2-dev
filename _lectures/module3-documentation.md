@@ -4,8 +4,9 @@ date: 2026-09-17T9:00:00-7:00
 location: TBD
 
 title: Documentation & Reproducibility
-description: ADD module description
-thumbnail: /_images/modules/sample-module-image.png
+description: Learn how to keep your research organized, understandable, and reusable. You’ll practice simple strategies for documenting your work—such as structuring files, describing data, and keeping clear notes—so others (and your future self) can follow what you’ve done. You’ll also see how these practices support collaboration and long-term use of research.
+
+thumbnail: /_images/modules/module3-documentation.png
 
 hide_from_announcments: true
 

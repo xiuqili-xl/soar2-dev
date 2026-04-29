@@ -4,8 +4,9 @@ date: 2026-09-16T13:00:00-7:00
 location: TBD
 
 title: Data in Practice
-description: Add module description
-thumbnail: /_images/modules/sample-module-image.png
+description: Work hands-on with data and learn how to organize, explore, and visualize it using tools like Excel and coding language (e.g., R or Python). You’ll see how structuring data thoughtfully makes your work easier to understand and build on. Along the way, you’ll get a glimpse of how coding supports more efficient and reproducible workflows.
+
+thumbnail: /_images/modules/module2-data-in-practice.png
 
 hide_from_announcments: true
 

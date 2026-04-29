@@ -15,13 +15,19 @@ layout: page
       </div>
     </div>
     {% endif %}
+
     <div class="content">
-        <span style="font-weight: bold;">{{ lecture.title }}</span> ({{ lecture.date | date: site.onlydateformat }})<br>
+        <!-- Remove this line of code; it formats sections as module.title (module.date)
+        <span style="font-weight: bold;">{{ lecture.title }}</span> ({{ lecture.date | date: site.onlydateformat }})
+        -->
+
+        <span style="font-weight: bold;">{{ lecture.title }}</span><br>
 
         {% if lecture.description %}
         {{ lecture.description }}
         <br/>
         {% endif %}
+
         <strong>
         {% include lecture_links.html lecture=lecture %}
         </strong>

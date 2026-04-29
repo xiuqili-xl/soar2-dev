@@ -21,7 +21,7 @@ In just three days, you will:
 * Build confidence in communicating your research
 * Leave with a clear plan for your next steps in research
 
-See [SCHEDULE]({{ "/schedule/" | relative_url }}) tab for more information about the modules.
+See the **[SCHEDULE]({{ "/schedule/" | relative_url }}) tab** for more information about the modules.
 
 <br/>
 
@@ -34,7 +34,7 @@ SOAR² is highly interactive. You’ll participate in:
 * Visits to campus research facilities
 * A keynote talk from a researcher doing open and reproducible science
 
-Sessions are led by facilitators from different disciplines (see [INSTRUCTORS]({{ "/instructors/" | relative_url }}) page), so you’ll gain perspectives that apply across fields.
+Sessions are led by facilitators from different disciplines (see **[INSTRUCTORS]({{ "/instructors/" | relative_url }}) page**), so you’ll gain perspectives that apply across fields.
 
 <br/>
 

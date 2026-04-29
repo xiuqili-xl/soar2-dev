@@ -4,8 +4,9 @@ date: 2026-09-16T9:00:00-7:00
 location: TBD
 
 title: Entering Research
-description: ADD module description
-thumbnail: /_images/modules/sample-module-image.png
+description: Learn how research actually works across disciplines and how you can get involved. You’ll explore the roles people play in research, how teams function, and strategies for finding mentors and opportunities. This module also introduces the idea of doing research in ways that are transparent and accessible to others.
+
+thumbnail: /_images/modules/module1-entering-research.png
 
 hide_from_announcments: true
 

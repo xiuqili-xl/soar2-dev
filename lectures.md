@@ -3,4 +3,13 @@ layout: lectures
 title: Modules
 permalink: /modules/    # change the page permalink and nav URL to /modules/, but leave the underlying collection/layout/include names as lectures
 ---
-### *Module materials will be posted once they become available.*
+
+## Program Overview
+
+### *Schedule subjected to change.*
+
+
+
+## Module Description
+
+### *SOAR2 is organized around the research lifecycle—from getting involved in research to working with data, documenting your work, and sharing your findings.*
