@@ -56,7 +56,7 @@ No prior research experience required! We welcome applications from **all UCSB u
 
 ## How to apply?
 
-Applications will open in mid-May. Return to this webpage to submit your application.
+**Applications will open in mid-May. Return to this webpage to submit your application.**
 
 The application will include:
 
