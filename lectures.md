@@ -8,7 +8,7 @@ permalink: /modules/    # change the page permalink and nav URL to /modules/, bu
 
 ![Tentative program schedule for SOAR²]({{ "/_images/schedule.png" | relative_url }})
 
-***Schedule subjected to change.***
+***Note: schedule subjected to change.***
 
 <br/>
 

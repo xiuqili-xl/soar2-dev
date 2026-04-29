@@ -21,7 +21,7 @@ In just three days, you will:
 * Build confidence in communicating your research
 * Leave with a clear plan for your next steps in research
 
-See the **[SCHEDULE]({{ "/schedule/" | relative_url }}) tab** for more information about the modules.
+See the **[MODULES]({{ "/modules/" | relative_url }}) tab** for more information about the program, including the tenative schedule and module descriptions.
 
 <br/>
 

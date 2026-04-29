@@ -7,9 +7,10 @@ items:
   name: Instructors
   icon_class: fas fa-user-tie
 
-- url_internal: /schedule/
-  name: Schedule
-  icon_class: fas fa-calendar-alt
+## Hide schedule during the application process
+#- url_internal: /schedule/
+#  name: Schedule
+#  icon_class: fas fa-calendar-alt
 
 - url_internal: /modules/               # ensures the page permalink and nav URL is /modules
   name: Modules
@@ -20,12 +21,13 @@ items:
 #  name: About
 #  icon_class: fas fa-info-circle
 
-## Not sure if we need assignments for this program. Hide for now.
+## Hide Assignment page bc we probably won't need it 
 #- url_internal: /assignments/
 #  name: Assignments
 #  icon_class: fas fa-user-graduate
 
-#- url_external: https://edstem.org/us/courses/51930
-#  name: Ed
-#  icon_class: fas fa-book
+## Example of how to link to 
+#- url_external: https://www.library.ucsb.edu/
+#  name: UCSB Library
+#  icon_class: fa fa-university
 
