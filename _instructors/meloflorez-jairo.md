@@ -3,7 +3,7 @@ type: instructor
 name: Jairo Melo Florez
 degree: 
 title: Digital Humanities Research Facilitator
-bio: Jairo Melo Florez is the Digital Humanities Research Facilitator. [Add Jairo's bio]
+bio: Jairo Melo Florez is the Digital Humanities Research Facilitator. [Jairo's bio to come]
 thumbnail: /_images/instructors/meloflorez-jairo.jpg
 
 hide_from_announcments: true

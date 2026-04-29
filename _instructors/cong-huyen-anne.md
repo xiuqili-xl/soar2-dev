@@ -3,7 +3,7 @@ type: instructor
 name: Anne Cong-Huyen
 degree: 
 title: Research and Engagement Librarian
-bio: Anne Cong-Huyen is the Research Engagement Librarian. [Add Anne's bio]
+bio: Anne Cong-Huyen is the Research Engagement Librarian. [Anne's bio to come]
 thumbnail: /_images/instructors/cong-huyen-anne.jpg
 
 hide_from_announcments: true

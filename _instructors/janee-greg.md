@@ -3,7 +3,7 @@ type: instructor
 name: Greg Janeé
 degree: 
 title: Director of Research Data Services
-bio: Greg Janée is Director of Research Data Services at the UCSB Library. [Add Greg's bio]
+bio: Greg Janée is Director of Research Data Services at the UCSB Library. [Greg's bio to come]
 thumbnail: /_images/instructors/janee-greg.png
 
 hide_from_announcments: true

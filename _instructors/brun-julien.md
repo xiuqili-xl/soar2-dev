@@ -3,7 +3,7 @@ type: instructor
 name: Julien Brun
 degree: 
 title: Earth & Environmental Sciences Research Facilitator
-bio: Julien Brun is the Earth & Environmental Sciences Research Facilitator in the Research Data Services department at the UCSB Library. [Add Julien's bio]
+bio: Julien Brun is the Earth & Environmental Sciences Research Facilitator in the Research Data Services department at the UCSB Library. [Julien's bio to come]
 thumbnail: /_images/instructors/brun-julien.png
 
 hide_from_announcments: true

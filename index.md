@@ -10,7 +10,7 @@ The Summer Open And Reproducible Research (SOAR²) Camp is a three-day, hands-on
 
 <br/>
 
-## Why apply
+## Why apply?
 
 In just three days, you will:
 
@@ -25,7 +25,7 @@ See the **[MODULES]({{ "/modules/" | relative_url }}) tab** for more information
 
 <br/>
 
-## What to expect
+## What to expect?
 
 SOAR² is highly interactive. You’ll participate in:
 
@@ -38,7 +38,7 @@ Sessions are led by facilitators from different disciplines (see **[INSTRUCTORS]
 
 <br/>
 
-## Who should apply
+## Who should apply?
 
 No prior research experience required! We welcome applications from **all UCSB undergraduate students**, whether you have a research project, are interested in getting started in research, or are just curious.
 
@@ -53,18 +53,8 @@ No prior research experience required! We welcome applications from **all UCSB u
 
 <br/>
 
-## What we ask of you
 
-SOAR² is a short but intensive program. Please be prepared to:
-
-* Attend all three days of the program
-* Actively participate in discussions and activities
-* Engage respectfully with peers from diverse disciplines and backgrounds
-* Come prepared to reflect on your own research interests or experiences
-
-<br/>
-
-## How to apply
+## How to apply?
 
 Applications will open in mid-May. Return to this webpage to submit your application.
 

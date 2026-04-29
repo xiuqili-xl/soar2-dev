@@ -3,7 +3,7 @@ type: instructor
 name: Renata Curty
 degree:
 title: Social Science Research Facilitator
-bio: Renata Curty is the Social Science Research Facilitator. [Add Renata's Bio]
+bio: Renata Curty is the Social Science Research Facilitator. [Renata's bio to come]
 thumbnail: /_images/instructors/curty-renata.png
 
 hide_from_announcments: true

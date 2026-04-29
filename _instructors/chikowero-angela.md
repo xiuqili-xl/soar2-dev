@@ -3,7 +3,7 @@ type: instructor
 name: Angela Chikowero
 degree: 
 title: Open and Affordable Course Materials Librarian & Education Librarian
-bio: Angela Chikowero is the Open and Affordable Course Materials Librarian & Education Librarian at the UCSB Library. [Add Angela's bio]
+bio: Angela Chikowero is the Open and Affordable Course Materials Librarian & Education Librarian at the UCSB Library. [Angela's bio to come]
 thumbnail: /_images/instructors/chikowero-angela.jpg
 
 hide_from_announcments: true
